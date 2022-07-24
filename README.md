@@ -1,4 +1,4 @@
 
-# Redux Toolkit Sample Project
+## Redux Toolkit Sample Project
 
-## Learning App
+Redux Toolkit sample project. It's for learning purposes.
